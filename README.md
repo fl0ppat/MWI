@@ -1,6 +1,6 @@
 # Minecraft Web Inventory
 
-Mincraft-like inventory for item rendering. Tooltips support custom lines.
+Mincraft-like inventory for item rendering. Tooltips supports custom lines.
 
 ## Installation
 
